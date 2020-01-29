@@ -47,10 +47,23 @@ footer {
     background-color: #d5cfc2;
 }
 
-.what-will-happen, 
-.give-me-those-numbers, 
+.what-will-happen {
+    background-color: #a62d3b;
+    color: whitesmoke;
+}
+
+.give-me-those-numbers {
+    background-color: black;
+    color: whitesmoke;
+}
+
 .an-average-week {
-    background-color: #d9dad6;
+    background-color: #e5e7e2;
+}
+
+.problem-one {
+    background-color: #0e2947;
+    color: whitesmoke;
 }
 
 .what-do-you-want .img-fluid {
@@ -72,8 +85,7 @@ footer {
 }
 
 .what-will-happen .img-fluid,
-.give-me-those-numbers .img-fluid
-.an-average-week .img-fluid {
+.give-me-those-numbers .img-fluid {
     height: 480px;
     width: 720px;
     object-fit: cover;
