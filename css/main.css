@@ -1,0 +1,80 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: large;
+}
+
+h1,h2,h3 {
+    font-weight: 900
+}
+
+h4,h5,h6 {
+    font-weight: 700
+}
+
+.navbar {
+    background: whitesmoke;
+    border-bottom: 1px solid grey;
+}
+
+.nav-link,
+.navbar-brand {
+    color: black;
+}
+
+.nav-link:hover,
+.navbar-brand:hover {
+    color: grey;
+}
+
+.navbar-brand {
+    font-size: 1.8rem;
+}
+
+footer {
+    background: whitesmoke;
+    border-top: 1px solid grey;
+}
+
+.what-do-you-want {
+    background-color: white;
+}
+
+.what-do-you-mean {
+    background-color: #67a29c;
+}
+
+.why-would-you-do-that {
+    background-color: #d5cfc2;
+}
+
+.what-will-happen, 
+.give-me-those-numbers, 
+.an-average-week {
+    background-color: #d9dad6;
+}
+
+.what-do-you-want .img-fluid {
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+}
+
+.what-do-you-mean .img-fluid {
+    height: 400px;
+    width: 500px;
+    object-fit: cover;
+}
+
+.why-would-you-do-that .img-fluid {
+    height: 400px;
+    width: 500px;
+    object-fit: cover;
+}
+
+.what-will-happen .img-fluid,
+.give-me-those-numbers .img-fluid
+.an-average-week .img-fluid {
+    height: 480px;
+    width: 720px;
+    object-fit: cover;
+}
