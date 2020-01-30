@@ -1,6 +1,5 @@
 body {
     font-family: 'Raleway', sans-serif;
-    font-size: large;
 }
 
 h1,h2,h3 {
@@ -37,56 +36,116 @@ footer {
 
 .what-do-you-want {
     background-color: white;
+    font-size: 1.5rem;
+}
+
+.what-do-you-want .img-fluid {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 
 .what-do-you-mean {
     background-color: #67a29c;
+    font-size: 1.5rem;
+}
+
+.what-do-you-mean .img-fluid {
+    max-width: 130%;
+    height: auto;
+    object-fit: cover;
 }
 
 .why-would-you-do-that {
     background-color: #d5cfc2;
+    font-size: 1.5rem;
+}
+
+.why-would-you-do-that .img-fluid {
+    max-width: 120%;
+    height: auto;
+    object-fit: cover;
 }
 
 .what-will-happen {
     background-color: #a62d3b;
     color: whitesmoke;
+    font-size: 1.5rem;
+}
+
+.what-will-happen .img-fluid {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 
 .give-me-those-numbers {
     background-color: black;
     color: whitesmoke;
+    font-size: 1.5rem;
+}
+
+.give-me-those-numbers .img-fluid {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 
 .an-average-week {
     background-color: #e5e7e2;
+    font-size: 1.5rem;
+}
+
+.an-average-week .img-fluid {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 
 .problem-one {
     background-color: #0e2947;
     color: whitesmoke;
+    font-size: 1.5rem;
 }
 
-.what-do-you-want .img-fluid {
-    height: 500px;
-    width: 500px;
+.problem-one .img-fluid {
+    max-width: 100%;
+    height: auto;
     object-fit: cover;
 }
 
-.what-do-you-mean .img-fluid {
-    height: 400px;
-    width: 500px;
+.problem-two {
+    background-color: #9b9da0;
+    font-size: 1.5rem;
+}
+
+.problem-two .img-fluid {
+    max-width: 100%;
+    height: auto;
     object-fit: cover;
 }
 
-.why-would-you-do-that .img-fluid {
-    height: 400px;
-    width: 500px;
+.year-effects
+{
+    background-color: black;
+    color: whitesmoke;
+    font-size: 1.5rem;
+}
+
+.year-effects .img-fluid {
+    max-width: 100%;
+    height: auto;
     object-fit: cover;
 }
 
-.what-will-happen .img-fluid,
-.give-me-those-numbers .img-fluid {
-    height: 480px;
-    width: 720px;
+.summary
+{
+    background-color: #efd5d6;
+    font-size: 1.5rem;
+}
+
+.summary .img-fluid {
+    max-width: 100%;
+    height: auto;
     object-fit: cover;
 }
